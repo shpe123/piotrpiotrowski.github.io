@@ -1,0 +1,48 @@
+h3
+ {
+	 color: white;
+	 text-shadow: black 0.1em 0.1em 0.2em
+	 }
+h2
+{
+	color: white;
+	text-shadow: black 0.1em 0.1em 0.2em
+	}
+h4
+{
+	color: white;
+	text-shadow: black 0.1em 0.1em 0.2em
+	}
+
+
+
+
+th{
+font-size:20pt;
+background-color: pink ;
+}
+
+td{
+font-size: 15pt;
+background-color: white ;
+}
+
+
+ul
+  {
+    float: center;
+	list-style: none;
+  }
+li a 
+  {
+   display: block;
+   font-size: 1em;
+   text-align: center;
+   text-decoration: none;
+   color: black;
+   background: tlo.jpg;
+   padding: 0px 0px;
+   margin: 0px 0px 0px 0px;
+   border-radius: 0px;
+  }
+  
